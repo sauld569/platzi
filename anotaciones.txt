@@ -1,0 +1,8 @@
+Tierra
+Marte=1
+Jupiter=2
+
+1. Preguntar que planeta quiere el usuario
+2. Preguntar el peso del usuario
+3. Realizar el calculo
+4. Mostrar el peso final
